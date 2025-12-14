@@ -14,7 +14,7 @@ Fix broken APK recompilation by installing a clean, upstream Apktool instead of 
 ### ▶️ Usage
 
 * This script must be run with sudo, as it installs files into /usr/local/bin:
-
+* `chmod +x apktool.py`
 * `sudo python3 apktool.py`
 
 ### ✅ Verification
