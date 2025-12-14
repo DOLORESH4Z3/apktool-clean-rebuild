@@ -1,6 +1,7 @@
 # 🤖 apktool clean rebuild 
 Fix broken APK recompilation by installing a clean, upstream Apktool instead of distro-patched versions.
 
+![In_Action](https://github.com/DOLORESH4Z3/apktool-clean-rebuild/blob/main/apktool.png) 
 ### ⚠️ Important Notes
 
 * If Apktool was previously installed from your Linux distribution (APT), it may cause APK recompilation issues.
